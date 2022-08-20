@@ -10,3 +10,4 @@ rl.on("line", (response) => {
 }).on("close", () => {
   process.exit();
 });
+
