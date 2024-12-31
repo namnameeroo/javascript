@@ -18,3 +18,6 @@ let merged3 = Object.assign(person, address); // person 객체가 변경된다.
 console.log(merged);
 console.log(merged2);
 console.log(merged3);
+
+// leetcode 관련 문제 및 풀이
+// https://leetcode.com/problems/join-two-arrays-by-id/solutions/6208318/indexsayongeuro-sorting-biyong-coesohwa-petm3
